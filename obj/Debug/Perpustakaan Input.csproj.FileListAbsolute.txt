@@ -1,0 +1,15 @@
+C:\Users\Rizki\source\repos\Perpustakaan Input\bin\Debug\Perpustakaan Input.exe.config
+C:\Users\Rizki\source\repos\Perpustakaan Input\bin\Debug\Perpustakaan Input.exe
+C:\Users\Rizki\source\repos\Perpustakaan Input\bin\Debug\Perpustakaan Input.pdb
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan Input.csproj.AssemblyReference.cache
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.FormRegister.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.LoginForm.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.ManagemenPerpustakaan.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.Properties.Resources.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan Input.csproj.GenerateResource.cache
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan Input.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan Input.exe
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan Input.pdb
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.ManagemenBuku.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.PeminjamanBuku.resources
+C:\Users\Rizki\source\repos\Perpustakaan Input\obj\Debug\Perpustakaan_Input.PengembalianBuku.resources
